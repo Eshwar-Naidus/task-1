@@ -34,7 +34,7 @@ As per the task instructions, the following steps were completed using a scikit-
 
 ## Files in this Repository
 
-* `task1.py`: The Python script containing all the preprocessing code.
+* `task'1.pynb`: The Python script containing all the preprocessing code.
 * `Titanic-Dataset.csv`: The raw dataset used for the task.
 * `fare_boxplot.png`: The saved boxplot visualization for outlier detection.
 * `README.md`: This summary file.
